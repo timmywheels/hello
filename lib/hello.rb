@@ -1,5 +1,6 @@
 # Default is "World"
 #Author: Tim Wheeler (tim@timwheeler.com)
+#testing ssh
 
 require 'greeter'
 
